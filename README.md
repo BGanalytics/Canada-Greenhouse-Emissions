@@ -6,7 +6,7 @@ Business Problem: Find answers for the following questions:
 2. What is the trend of annual emission in each sector (Linear, polynomial and SVR regression)
 3. Predict the emissions of each sector in 2019 and 2020
 
-My approach:
+My approach: Using visualization techniques for plotting. Regression analysis to see the trends. SVM for classification of data in relevant cases. 
 
 
 Results:
